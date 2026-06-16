@@ -1,10 +1,16 @@
 # deploy_agent_piradukund1
 
-A shell script that bootstraps a Student Attendance Tracker workspace by copying
-provided source files into the correct project structure.
+A shell script that bootstraps a Student Attendance Tracker workspace by automatically creating the required directory structure, copying provided source files, configuring settings, and handling interruptions safely.
 
 ---
 
+## Video Explanation
+
+Google Drive: https://drive.google.com/file/d/1XLPYYz5gajPNK6eUm-oWu6xTf0nBKHbz/view?usp=drive_link
+
+This video explains the project approach, script functionality, and execution process.
+
+---
 ## Repository Structure
 
 ```
