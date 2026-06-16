@@ -10,10 +10,10 @@ provided source files into the correct project structure.
 ```
 deploy_agent_piradukund1/
 ├── setup_project.sh       ← the bootstrap script
-├── attendance_checker.py  ← provided source (gets copied)
-├── assets.csv             ← provided source (gets copied)
-├── config.json            ← provided source (gets copied)
-├── reports.log            ← provided source (gets copied)
+├── attendance_checker.py  ← provided on canvas
+├── assets.csv             ← provided 
+├── config.json            ← provided 
+├── reports.log            ← provided 
 └── README.md
 ```
 
@@ -23,7 +23,7 @@ deploy_agent_piradukund1/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/deploy_agent_piradukund1.git
+git clone https://github.com/piradukund1/deploy_agent_piradukund1.git
 cd deploy_agent_yourusername
 
 # 2. Make the script executable
