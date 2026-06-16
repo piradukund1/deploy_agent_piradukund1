@@ -30,7 +30,7 @@ deploy_agent_piradukund1/
 ```bash
 # 1. Clone the repo
 git clone https://github.com/piradukund1/deploy_agent_piradukund1.git
-cd deploy_agent_yourusername
+cd deploy_agent_piradukund1
 
 # 2. Make the script executable
 chmod +x setup_project.sh
