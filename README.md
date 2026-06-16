@@ -1,4 +1,4 @@
-# deploy_agent_YourUsername
+# deploy_agent_piradukund1
 
 A shell script that bootstraps a Student Attendance Tracker workspace by copying
 provided source files into the correct project structure.
@@ -8,7 +8,7 @@ provided source files into the correct project structure.
 ## Repository Structure
 
 ```
-deploy_agent_yourusername/
+deploy_agent_piradukund1/
 ├── setup_project.sh       ← the bootstrap script
 ├── attendance_checker.py  ← provided source (gets copied)
 ├── assets.csv             ← provided source (gets copied)
@@ -23,7 +23,7 @@ deploy_agent_yourusername/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/deploy_agent_yourusername.git
+git clone https://github.com/yourusername/deploy_agent_piradukund1.git
 cd deploy_agent_yourusername
 
 # 2. Make the script executable
